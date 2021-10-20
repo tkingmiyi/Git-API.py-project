@@ -1,6 +1,9 @@
+# email from _ timtchambou@gmail.com
+# email to _ brad.hein@sailpoint.com
+# Subject :GitHub API _Pull request
+
 import requests
 import json
-
 gitResponse=[]
 #api url to grab public user data
 api_url = f"https://api.github.com/repos/twpayne/go-vfs/pulls?state=all"

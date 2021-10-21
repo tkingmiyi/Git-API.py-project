@@ -1,6 +1,7 @@
+# Author:Timothy Kingmiyi
 # email from _ timtchambou@gmail.com
 # email to _ brad.hein@sailpoint.com
-# Subject :GitHub API _Pull request
+# Subject :GitHub API _Pull request (opened closed & in progress) for the last weeks
 
 import requests
 import json
